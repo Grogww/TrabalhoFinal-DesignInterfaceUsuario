@@ -17,7 +17,7 @@
 | **Integrantes (dupla)** | Eduardo Fritsch Silva · Everton José Serighelli |
 | **Protótipo — Design (Dev Mode)** | https://www.figma.com/design/MrQFELrQVzEK3z2Ga50TiB/TrabalhoFinal-DesignInterfaceUsuario?node-id=0-1&m=dev |
 | **UI Kit — Bootstrap 5 (Dev Mode)** | https://www.figma.com/design/dQ2gdBl6IcKwFVzi8yb0Tl/Bootstrap-5-UI-Kit--Community-?node-id=139-170&m=dev |
-| **Repositório** | [inserir link do GitHub] |
+| **Repositório** | [Link do Github](https://github.com/Grogww/TrabalhoFinal-DesignInterfaceUsuario) |
 
 > ⚠️ **Acesso necessário:** os assets do UI Kit foram publicados como biblioteca em um design de equipe. Para editar/manipular corretamente os elementos do protótipo, é preciso ter acesso **aos dois arquivos** acima (Design + UI Kit).
 
@@ -116,8 +116,8 @@ Paleta baseada no sistema de cores do Bootstrap 5, com **roxo** como cor primár
 
 ## 👥 Autores
 
-- [Nome do integrante 1] — [usuário GitHub]
-- [Nome do integrante 2] — [usuário GitHub]
+- Eduardo Fritsch Silva — [https://github.com/Grogww](https://github.com/Grogww)
+- Everton José Serighelli — [https://github.com/everton2803](https://github.com/everton2803)]
 
 ---
 
