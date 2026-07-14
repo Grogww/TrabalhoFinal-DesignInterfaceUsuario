@@ -117,7 +117,7 @@ Paleta baseada no sistema de cores do Bootstrap 5, com **roxo** como cor primár
 ## 👥 Autores
 
 - Eduardo Fritsch Silva — [https://github.com/Grogww](https://github.com/Grogww)
-- Everton José Serighelli — [https://github.com/everton2803](https://github.com/everton2803)]
+- Everton José Serighelli — [https://github.com/everton2803](https://github.com/everton2803)
 
 ---
 
