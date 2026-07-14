@@ -14,7 +14,7 @@
 | **Licença do UI Kit** | CC BY 4.0 (uso com atribuição ao autor) |
 | **Ferramenta de prototipação** | Figma — protótipo de alta fidelidade (Desktop) |
 | **Disciplina** | Design de Interface do Usuário |
-| **Integrantes (dupla)** | [Nome do integrante 1] · [Nome do integrante 2] |
+| **Integrantes (dupla)** | Eduardo Fritsch Silva · Everton José Serighelli |
 | **Protótipo — Design (Dev Mode)** | https://www.figma.com/design/MrQFELrQVzEK3z2Ga50TiB/TrabalhoFinal-DesignInterfaceUsuario?node-id=0-1&m=dev |
 | **UI Kit — Bootstrap 5 (Dev Mode)** | https://www.figma.com/design/dQ2gdBl6IcKwFVzi8yb0Tl/Bootstrap-5-UI-Kit--Community-?node-id=139-170&m=dev |
 | **Repositório** | [inserir link do GitHub] |
